@@ -3,7 +3,7 @@ baseurl: "/Type-on-Strap"
 url: "https://photo-helen.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Type on Strap                                    # site's title
+title: Photo Helen 📷                                   # site's title
 description: "Сайт фотографа Елены"      # used by search engines
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
