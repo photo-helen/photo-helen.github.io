@@ -13,7 +13,7 @@ header_text:   # Change Blog header text - Будущий сайт фотогр�
 header_feature_image: assets/img/header/triangular.jpeg
 header_feature_image_responsive: true
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+  Powered by Helen
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
