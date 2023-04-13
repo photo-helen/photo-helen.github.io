@@ -63,6 +63,9 @@
 
 .pull-block{
     text-align: center;
+    a {
+      color: var(--header-text);
+    }
 }
 
 nav {
