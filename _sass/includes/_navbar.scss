@@ -84,7 +84,9 @@ nav {
 
   
   a {
-    color: var(--header-link);
+    &{
+      color: var(--header-link);
+    }
 
     &:hover {
       color: var(--link);
