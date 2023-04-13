@@ -2,7 +2,7 @@
 layout: page
 title: Услуги и цены
 permalink: /services/
-feature-img: "assets/img/portfolio/photo1681403660.jpeg]"
+feature-img: "assets/img/portfolio/photo1681403660.jpeg"
 tags: [Page]
 ---
 
