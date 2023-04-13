@@ -85,7 +85,7 @@ nav {
   
   a {
     &{
-      color: var(--header-link);
+      color: var(--header-link)!important;
     }
 
     &:hover {
