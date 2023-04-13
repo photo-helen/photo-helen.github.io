@@ -90,9 +90,6 @@ imageAnimation {  0% {
     }
   }
 
-  a {
-    color: var(--header-link);
-  }
   .branding{
     justify-content: center;
     display: flex;
@@ -172,6 +169,11 @@ nav {
 /* ---- Responsive ---- */
 
 @media (min-width: $break) {
+  .site-header {
+    a {
+      color: var(--header-link);
+    }
+  }
   a#pull {
     display: none;
   }
