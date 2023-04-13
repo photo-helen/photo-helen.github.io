@@ -167,6 +167,8 @@ nav {
 
 @media (min-width: $break) {
   .site-header {
+    padding-left:30px;
+    padding-right:30px;
     a {
       color: var(--header-text);
     }
