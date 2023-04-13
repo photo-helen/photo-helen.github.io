@@ -9,7 +9,7 @@ avatar: assets/img/triangle.png                         # Empty for no avatar in
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Будущий сайт фотографа Елены будет здесь 😉  # Change Blog header text
+header_text:   # Change Blog header text - Будущий сайт фотографа Елены будет здесь 😉
 header_feature_image: assets/img/header/triangular.jpeg
 header_feature_image_responsive: true
 footer_text: >
