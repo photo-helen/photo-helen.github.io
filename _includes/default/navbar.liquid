@@ -9,11 +9,14 @@
 
     <!-- Logo and title -->
 	<div class="branding">
+        {% comment %}
         {% if site.avatar %}
 		<a href="{{ '/' | relative_url }}">
 			<img alt="logo img" class="avatar" src="{{ site.avatar | relative_url }}" loading="lazy"/>
 		</a>
         {% endif %}
+        {% endcomment %}
+
         <a class="site-title" aria-label="{{ site.title }}" href="{{ '/' | relative_url }}">
         {{ site.title }}
 		</a>
