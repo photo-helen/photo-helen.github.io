@@ -31,11 +31,15 @@
   }
 
   a {
-    color: var(--header-text);
+    color: var(--header-link);
   }
   .branding{
     justify-content: center;
     display: flex;
+
+    a {
+      color: var(--header-text);
+    }
   }
 
   .avatar {
@@ -86,10 +90,6 @@ nav {
 
   
   a {
-    &{
-      color: var(--header-link)!important;
-    }
-
     &:hover {
       color: var(--link);
     }
