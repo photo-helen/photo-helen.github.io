@@ -224,6 +224,13 @@ nav {
       background-color: var(--background);
       backdrop-filter: brightness(0.98);
 
+      &:first-child {
+        padding-top: 30px;
+      }
+      &:last-child {
+        padding-bottom: 30px;
+      }
+
       &:nth-of-type(4n) {
         background-color: var(--background);
       }
