@@ -168,7 +168,7 @@ nav {
 @media (min-width: $break) {
   .site-header {
     a {
-      color: var(--header-link);
+      color: var(--header-text);
     }
   }
   a#pull {
@@ -186,7 +186,7 @@ nav {
       margin-top: 7px;
     }
     a {
-      color: var(--header-text);
+      color: var(--header-link);
     }
   }
 
